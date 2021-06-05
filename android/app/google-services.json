@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163780252183",
+    "firebase_url": "https://kbu-chat-app.firebaseio.com",
+    "project_id": "kbu-chat-app",
+    "storage_bucket": "kbu-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163780252183:android:d0f5ba1543ef71c02d0252",
+        "android_client_info": {
+          "package_name": "com.example.kbu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163780252183-6dc1tr7016lee53ajujl2f0hdsg2p542.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kbu_app",
+            "certificate_hash": "04b6a8d561b10ee7ac0bd86b4d90041018474387"
+          }
+        },
+        {
+          "client_id": "163780252183-4hjeg6a9gk7natpqfofpl0t4hklk3s89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bPlpHHphE79_BQ9GIkO6WfrHReddfQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163780252183-4hjeg6a9gk7natpqfofpl0t4hklk3s89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
